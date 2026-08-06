@@ -94,3 +94,6 @@ and how to successfully get involved.
 
 Esta modificación fue realizada como parte de un ejercicio de práctica.
 además, ¡Estoy feliz de hacer mi primera edición!
+## Práctica local
+
+Este cambio fue realizado desde mi computadora.
