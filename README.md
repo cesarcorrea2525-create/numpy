@@ -93,3 +93,4 @@ and how to successfully get involved.
 ## Práctica de GitHub
 
 Esta modificación fue realizada como parte de un ejercicio de práctica.
+además, ¡Estoy feliz de hacer mi primera edición!
